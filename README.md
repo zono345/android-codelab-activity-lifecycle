@@ -1,28 +1,20 @@
-DessertClicker - Code
-=====================
-
-Code for Android Basics Codelab.
+# android-codelab-activity-lifecycle
 
 Introduction
 ------------
+- Android CodeLabで作ったアプリです。
+- アプリ名称: Dessert Clicker
+- Bundleにデザートの購入数、合計価格のデータを保存し、onDestroyしてもonCreateで前回のデータを再利用できます。
 
-DessertClicker is a game about making desserts. Press the button, make a dessert,
-earn the big bucks.
-
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
+### アクティビティのライフサイクルのステージ ###
+https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle?hl=ja
 
 
-Getting Started
----------------
+アプリ画面
+----  
+### 静止画 ###
+<img src="" width="1000">
 
-1. Download and run the app.
+
+### GIF ###  
+<img src="" width="300">
