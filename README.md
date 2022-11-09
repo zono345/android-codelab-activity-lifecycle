@@ -15,6 +15,7 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-activity-li
 ### 静止画 ###
 <img src="" width="1000">
 
+test
 
 ### GIF ###  
 <img src="" width="300">
